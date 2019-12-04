@@ -1,4 +1,4 @@
-# ubuntu-networking
+# ubuntu-base
 
 Ubuntu 18.04 LTS Docker image with some common settings and packages.
 
