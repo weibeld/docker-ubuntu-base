@@ -9,6 +9,7 @@ Can serve as a base image for other Docker images.
 ## Tools
 
 - `vim`
+- `jq`
 
 ## Settings
 

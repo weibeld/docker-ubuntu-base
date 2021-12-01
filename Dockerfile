@@ -8,4 +8,4 @@ RUN sed -i 's|^path-exclude=/usr/share/man|# path-exclude=/usr/share/man|' /etc/
 RUN apt-get update && apt-get install -y less man manpages-posix
 
 # Install common software 
-RUN apt-get update && apt-get install -y vim
+RUN apt-get update && apt-get install -y vim jq
